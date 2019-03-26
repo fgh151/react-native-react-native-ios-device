@@ -1,0 +1,22 @@
+{
+  "name": "react-native-react-native-ios-device",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native, IOS"
+  ],
+  "author": "Fedor B Gorsky",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:fgh151/react-native-react-native-ios-device.git"
+  },
+  "homepage": "https://openitstudio.ru"
+}
